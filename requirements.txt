@@ -13,8 +13,6 @@ azure-storage-common==0.37.1
 azure-storage-nspkg==3.1.0
 Flask==1.1.2
 pandas==1.1.3
-azure-core==1.13.0                  
-azure-storage-blob==12.8.1
 pyarrow==3.0.0
 snowflake-connector-python==2.4.1
 hdbcli==2.5.101
