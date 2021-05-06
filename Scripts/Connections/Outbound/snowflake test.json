@@ -1,0 +1,1 @@
+{"connectiontype": "Outbound", "system": "snowflake", "connection_name": "snowflake test", "user": "SF_POC_USER", "password": "MT1234", "account": "randomtreespartner.east-us-2.azure", "warehouse": "HANA_SF_POC", "database": "HANA_DB", "schema": "SAPABAP1", "role": "DEV_ROLE"}
